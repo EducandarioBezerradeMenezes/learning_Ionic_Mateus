@@ -29,7 +29,8 @@ Para o desenvolvimento desta aplicação foi utilizado o Ionic e o Cordova para cr
     
   •	Javascript:
   
-    •	app – cria o modulo da aplicação angular, injeta o modulo ionic e passa configurações do cordova para a aplicação;
+    •	app – cria o modulo da aplicação angular, injeta o modulo ionic e passa configurações do cordova para a 
+	    aplicação;
 
     •	configValue – guarda o valor da Url a ser utilizada para se comunicar com a API;
     
